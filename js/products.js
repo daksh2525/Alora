@@ -59,7 +59,7 @@ window.products = [
      {
         id: '8',
         name: 'Glass Candle',
-        price: 39,
+        price: 399,
         image: '/images/product6.jpg',
         category: 'scented',
         fragrance: 'citrus'
