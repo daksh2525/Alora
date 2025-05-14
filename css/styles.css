@@ -228,7 +228,7 @@ a {
 
 .collection-slider-track {
     display: flex;
-    animation: scroll 4s linear infinite;
+    animation: scroll 10s linear infinite;
     will-change: transform;
     padding: 0 10px;
 }
